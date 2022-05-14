@@ -48,6 +48,13 @@ A standard text editor application with a generated manifest.json using the Webp
 ### Built With
 
 
+* [Heroku](https://dashboard.heroku.com/apps)
+* [Mongoose](https://mongoosejs.com/docs/)
+* [Manifest]()
+* [Service Worker]()
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Getting Started
